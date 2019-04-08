@@ -30,6 +30,7 @@ const MarkerHeader = styled.h3`
   );
 `
 
+
 const ReadingTime = styled.h5`
   display: inline;
   color: #bbb;
