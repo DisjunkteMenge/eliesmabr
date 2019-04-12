@@ -7,10 +7,11 @@ import SEO from "../components/seo"
 import Image from "../components/image"
 
 const IndexPage = () => (
+  <Image />
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <LandingBio />
-  <Image />
+  
   </Layout>
 )
 
