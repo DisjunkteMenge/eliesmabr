@@ -102,9 +102,6 @@ sup {
     top: -0.5em;
 }
 
-img {
-    border-style: none;
-}
 
 svg:not(:root) {
     overflow: hidden;
@@ -263,6 +260,7 @@ img {
     padding-right: 0;
     padding-top: 0;
     margin-bottom: 1.45rem;
+    border-style: none;
 }
 
 h1 {
