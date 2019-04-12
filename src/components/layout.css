@@ -253,7 +253,8 @@ body {
 }
 
 img {
-    
+    width: 50%;
+    height: 50%;
     border-radius: 50%;
     margin-left: 0;
     margin-right: 0;
