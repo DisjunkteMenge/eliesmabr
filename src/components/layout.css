@@ -47,7 +47,7 @@ template {
 
 a {
     font-style: normal;
-    color: hsla(0, 0%, 0%, 0.7);
+    color: hsla(0, 0%, 0%, 0.8);
     -webkit-text-decoration-skip: objects;
 }
 
