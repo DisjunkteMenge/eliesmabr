@@ -262,7 +262,8 @@ img {
     padding-top: 0;
     margin-bottom: 1.45rem;
     border-style: none;
-    object-position: center center;
+    top: 70%;
+    left: 30%;
 }
 
 h1 {
