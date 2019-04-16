@@ -9,7 +9,7 @@ import Image from "../components/image"
 const IndexPage = () => (
   
   <Layout>
-   <Image />
+
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <LandingBio />
   
